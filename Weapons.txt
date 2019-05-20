@@ -1,0 +1,211 @@
+21
+KN-44
+Full-auto assault rifle. Fast fire rate with moderate recoil.
+95
+Assault Rifle
+240
+Automatic
+625
+2.7
+83
+#
+Man-o-War
+Fully automatic. Slow rate of fire with high damage.
+155
+Assault Rifle
+390
+Automatic
+517
+3.4
+86
+#
+HVK-30
+Full-auto assault rifle. Very fast fire rate with tight hip-fire accuracy
+85
+Assault Rifle
+330
+Automatic
+722
+2.8
+90
+#
+Sheiva
+Semi-auto marksman assault rifle. Eliminates enemy infantry in two shots
+90
+Assault Rifle
+110
+Semi-automatic
+257
+2.2
+40
+#
+M8A7
+4-round burst rifle. High cyclic rate of fire with minimal recoil.
+105
+Assault Rifle
+288
+Semi-automatic burst
+591
+3.5
+73
+#
+ICR-1
+Fully-automatic. Modest damage with minimal recoil.
+100
+Assault Rifle
+240
+Fully-automatic
+600
+2.8
+81
+#
+Kuda
+Full-auto sub-machine gun. Steady fire rate with balanced recoil.
+85
+SMG
+270
+Automatic
+722
+2.3
+82
+#
+VMP
+Full-auto sub-machine gun. Versatile with high fire rate and moderate recoil.
+75
+SMG
+280
+Automatic
+909
+2.3
+80
+#
+Vesper
+Full-auto sub-machine gun. Highest fire rate in class.
+80
+SMG
+240
+Automatic
+1200
+2.5
+76
+#
+Pharo
+4 round burst sub-machine gun. Reliable damage and accuracy.
+70
+SMG
+240
+Automatic burst
+659
+2.4
+59
+#
+Weevil
+Full-auto sub-machine gun. Large magazine capacity with modest damage.
+70
+SMG
+400
+Automatic
+722
+2.3
+63
+#
+KRM-262
+Pump-action shotgun. 1-hit kill against enemies in close quarters.
+220
+Shotgun
+56
+Pump-action
+60
+5.8
+62
+#
+205 Brecci
+Semi-automatic shotgun. Reliable 2-shot kill.
+290
+Shotgun
+120
+Semi-automatic
+212
+4.5
+79
+#
+Argus
+Lever-action shotgun. Reliable and deadly accurate with small hip fire spread.
+300
+Shotgun
+70
+Lever-action
+63
+3.4
+70
+#
+Haymaker-12
+Fully-automatic shotgun. Fast fire rate with modest damage
+275
+Shotgun
+80
+Automatic
+300
+2.3
+87
+#
+Dingo
+Full-auto light machine gun. Fast fire rate with moderate recoil.
+270
+LMG
+560
+Automatic
+722
+5.2
+84
+#
+BRM
+Full-auto light machine gun. Strong damage with balanced recoil.
+180
+LMG
+450
+Automatic
+517
+7.0
+78
+#
+48 Dredge
+6 round auto-burst machine gun. Each burst fires at a rapid fire rate.
+155
+LMG
+540
+Automatic burst 
+753
+6.1
+77
+#
+Gorgon
+Full-auto heavy machine gun. 2-shot kill at a slow fire rate.
+200
+LMG
+300
+Automatic 
+327
+5.5
+74
+#
+RK5
+3-round burst pistol. Fast burst cycle rate.
+85
+Pistol
+120
+Semi-Auto Burst 
+775
+1.9
+45
+#
+L-CAR 9
+Fully automatic machine pistol. Medium fire rate with modest damage.
+130
+Pistol
+180
+Semi-automatic
+722
+1.9
+50
+#

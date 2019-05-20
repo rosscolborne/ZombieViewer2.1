@@ -1,0 +1,60 @@
+10
+Juggernog
+<html><div style='text-align: center;'>Increases the players health from 100 to 250, allowing them to withstand more hits before going down.</div><html>
+2500
+All except Nacht Der Untoten.
+90
+#
+Quick Revive
+<html><div style='text-align: center;'>Will automatically revive you if you die while playing solo.</div><html>
+500
+All except Nacht Der Untoten  and Shi No Numa.
+85
+#
+Speed Cola
+<html><div style='text-align: center;'>Decreases the time it takes for the player to reload by 50%.</div><html>
+3000
+All except Nacht Der Untoten,
+80
+#
+Mule Kick
+<html><div style='text-align: center;'>Allows the player to carry 3 guns at a time instead of two.</div><html>
+4000
+All Maps.
+65
+#
+Double Tap 2.0
+<html><div style='text-align: center;'>Causes the player’s guns to fire two  bullets at a time, while only using 1 bullet of ammunition.</div><html>
+2000
+All except Nacht Der Untoten and Ascension.
+60
+#
+Widow’s Wine
+<html><div style='text-align: center;'>Temporarily taps nearby zombies in a web when they hit the player.</div><html>
+4000
+Ascension, Shangri-La and Moon.
+70
+#
+Electric Cherry
+<html><div style='text-align: center;'>Creates an electric shockwave around the player when they reload, stunning nearby zombies.</div><html>
+2000
+Origins
+55
+#
+Stamin-up
+<html><div style='text-align: center;'>Allows the player to run faster and for longer.</div><html>
+2000
+Ascension, Shangri-La, and Moon
+75
+#
+Deadshot 
+<html><div style='text-align: center;'>Locks the player’s aim to the head of <br> zombies, making headshots easier.</div><html> 
+1500
+Shangri-La and Moon
+40
+#
+Wunderfizz
+<html><div style='text-align: center;'>Randomly dispenses one of the nine other perks.</div><html>
+1500
+All except Shangri-La and Moon
+60

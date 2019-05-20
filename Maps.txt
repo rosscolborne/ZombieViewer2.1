@@ -1,0 +1,64 @@
+8
+Ascension
+The risen dead have overtaken a Soviet cosmodrome and all hell has broken loose. 
+55
+75
+75
+Thundergun
+Zombies, Space Monkeys
+#
+Kino der Toten
+Battle the undead in this theatrical instalment of “Zombies”. It’s show time!
+60
+65
+65
+Thundergun
+Zombies, Hellhounds, NOVA Crawlers
+#
+Moon
+Survive endless waves of the undead on earth and the moon.
+95
+95
+95
+Wave Gun
+Zombies, Astronaut, Hellhounds
+#
+Verrukt
+Fight for your lives in a German asylum with dark corridors and even darker secrets
+75
+45
+45
+Winter’s Howl
+Zombies
+#
+Shangri-La
+The undead lurk with a treacherous labyrinth of underground caverns and traps.
+80
+80
+55
+Shrink Ray
+Zombies, Monkeys, NOVA Crawlers
+#
+Shi No Numa
+Maggot-ridden corpses. Bug-infested swamp. Hundreds of undead imperial army.
+65
+50
+50
+Wunderwaffe
+Zombies
+#
+Origins
+Survive the endless onslaught of the undead, deep in the trenches of a WW1 battlefield. 
+85
+90
+85
+Ice, Fire, Wind and Lightning Staffs
+Zombies, Panzersoldats
+#
+Nacht Der Untoten
+You drove them deep into the heart of the reich. You thought they were dead. You were wrong.
+70
+40
+40
+None
+Zombies
